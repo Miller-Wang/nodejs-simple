@@ -1,0 +1,18 @@
+{
+  "name": "share-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "set NODE_ENV=production && node 2.process.js",
+    "param": "node 2.process.js --name porsche"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mine": "^0.1.0"
+  }
+}
